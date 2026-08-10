@@ -1,0 +1,14 @@
+interface:
+  display_name: PageSpeed & SEO Optimizer
+  short_description: Otimiza sites para performance, SEO e qualidade
+  default_prompt: Use $pagespeed-seo-optimizer para auditar e otimizar este site,
+    validando performance, SEO, acessibilidade e boas práticas.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
